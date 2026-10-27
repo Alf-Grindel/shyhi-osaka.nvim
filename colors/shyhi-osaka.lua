@@ -1,1 +1,1 @@
-require("shyhi-osaka")
+require("colors.shyhi-osaka")

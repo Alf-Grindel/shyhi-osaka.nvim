@@ -1,1 +1,1 @@
-require("shyhi-osaka")._load()
+require("shyhi-osaka")

@@ -13,7 +13,7 @@ local colors = {
 
 	background = "#062626",
 	gutter = "#062626",
-	selection = "#23444b", -- or #183848
+	selection = "#183848", -- or #183848 #23444b
 	text = "#d0b892",
 	comment = "#40C040",
 	punctuation = "#8cde94",
